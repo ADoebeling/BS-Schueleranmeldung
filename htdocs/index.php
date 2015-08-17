@@ -43,7 +43,7 @@ Dieser Hinweis darf nicht entfernt od. bearbeitet werden!
 
 
 <div style="border:5px solid red; width:620px; padding:10px; margin:20px auto; background-color:white">
-			<b>ACHTUNG:</b> Dies ist ist eine DEMO-Version des Anmeldescriptes. Dies ist <b>NICHT</b> die offizielle Anmeldung der Berufsschule Erlangen. <a href="http://andreas-doebeling.de/projekte/" target="_blank">Weitere Informationen finden Sie hier</a><br><br>
+			<b>ACHTUNG:</b> Dies ist ist eine DEMO-Version des Anmeldescriptes. Dies ist <b>NICHT</b> die offizielle Anmeldung der Berufsschule Erlangen. <a href="https://github.com/ADoebeling/BS-Schueleranmeldung" target="_blank">Weitere Informationen finden Sie hier</a><br><br>
 
 			Diese Demo ist voll funktionsfähig und speichert die von Ihnen eingegebenen Daten. Diese werden unverschlüsselt übertragen und sind im Anschluss öffentlich einsehbar. Daher bitte nur Testdatensätze einspielen. Danke.
 		</div>
@@ -69,7 +69,7 @@ Dieser Hinweis darf nicht entfernt od. bearbeitet werden!
 			</table>		
 		</form>
 		<!-- Diese Zeile darf nicht bearbeitet/gelöscht/ausgeblendet werden -->
-		<div id="footer">Copyright &copy; <?=date('Y')?> Staatl. Berufsschule Erlangen (<a href="http://Andreas-Doebeling.de" style="color:black">Döbeling</a>, Kapp, Stepper, Wittmann) </div>
+		<div id="footer">Copyright &copy; 2009 Staatl. Berufsschule Erlangen (<a href="http://www.Doebeling.de" style="color:black">Döbeling</a>, Kapp, Stepper, Wittmann) </div>
 	
 <?=$session->debug('<pre>'.print_r($_SESSION, true).'</pre>'); ?>
 <?=$debugMsg?>
