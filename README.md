@@ -1,9 +1,9 @@
 # BS-Schüleranmeldung
 #### Projektarbeit "Programmierung einer Online-Schüleranmeldung" an der Berufsschule Erlangen 2009
 
-<img src="http://www.bs-erlangen.de/wp-content/uploads/2013/11/BS_Luftaufnahme_Schulbild.jpg" align="right" width="350">Im Rahmen der [dualen Ausbildung](http://www.bs-erlangen.de/fachbereiche/gewerbliche-berufe/fachbereich-it/) zum Fachinformatiker in der Fachrichtung Anwendungsentwicklung erhielt unsere damalige Projektgruppe Anfang 2009 den Auftrag ein webbasiertes [Anmeldescript](http://www.bs-erlangen.de/ueber-uns/verwaltung/anmeldung/) für die [Berufsschule Erlangen](http://www.bs-erlangen.de) zu entwickeln. 
+<img src="http://www.bs-erlangen.de/wp-content/uploads/2013/11/BS_Luftaufnahme_Schulbild.jpg" align="right" width="350">Im Rahmen der [dualen Ausbildung](http://www.bs-erlangen.de/fachbereiche/gewerbliche-berufe/fachbereich-it/) zum Fachinformatiker in der Fachrichtung Anwendungsentwicklung erhielt unsere damalige Projektgruppe Anfang 2009 den Auftrag, binnen einer Woche ein webbasiertes [Anmeldescript](http://www.bs-erlangen.de/ueber-uns/verwaltung/anmeldung/) für die [Berufsschule Erlangen](http://www.bs-erlangen.de) zu konzipieren, entwickeln und dokumentieren. 
 
-Unter vergleichsweise detaillierten Vorgaben und internen Abhängigkeiten galt es die gelernte Theorie erstmals praktisch in PHP/MySQL umzusetzen und zu dokumentieren, wobei mir die Implementierung zuviel.
+Unter vergleichsweise detaillierten Vorgaben und internen Abhängigkeiten galt es die gelernte Theorie erstmals praktisch in PHP/MySQL umzusetzen, wobei mir die Implementierung zuviel.
 
 Unser Projekt ist dabei damals als Jahrgangssieger hervor gegangen.
 
